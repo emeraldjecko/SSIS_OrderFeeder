@@ -1,0 +1,9 @@
+E:\ThieuCompleteCode\OrderFeeder_SourceCode\OrderFeeder\OrdersFeeder\bin\Release\EntityFramework.dll
+E:\ThieuCompleteCode\OrderFeeder_SourceCode\OrderFeeder\OrdersFeeder\bin\Release\EntityFramework.SqlServer.dll
+E:\ThieuCompleteCode\OrderFeeder_SourceCode\OrderFeeder\OrdersFeeder\bin\Release\EntityFramework.xml
+E:\ThieuCompleteCode\OrderFeeder_SourceCode\OrderFeeder\OrdersFeeder\bin\Release\EntityFramework.SqlServer.xml
+E:\ThieuCompleteCode\OrderFeeder_SourceCode\OrderFeeder\OrdersFeeder\bin\Release\OrderFeeder.exe.config
+E:\ThieuCompleteCode\OrderFeeder_SourceCode\OrderFeeder\OrdersFeeder\bin\Release\OrderFeeder.exe
+E:\ThieuCompleteCode\OrderFeeder_SourceCode\OrderFeeder\OrdersFeeder\bin\Release\OrderFeeder.pdb
+E:\ThieuCompleteCode\OrderFeeder_SourceCode\OrderFeeder\OrdersFeeder\obj\Release\OrderFeeder.exe
+E:\ThieuCompleteCode\OrderFeeder_SourceCode\OrderFeeder\OrdersFeeder\obj\Release\OrderFeeder.pdb
