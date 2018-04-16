@@ -120,7 +120,7 @@ namespace ProductsFeeder
         {
             try
             {
-
+                ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
                 string url = ConfigurationManager.AppSettings["TeapplixRemote"].ToString();
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
                 HttpWebResponse response = (HttpWebResponse)request.GetResponse();
@@ -133,6 +133,7 @@ namespace ProductsFeeder
             }
             catch (Exception e)
             {
+                Console.WriteLine(e.Message);
                 return string.Empty;
             }
         }
